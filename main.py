@@ -41,5 +41,5 @@ def main():
 
 
 
-print(get_files_info("calculator", "pkg"))
-#main()
+#print(get_files_info("calculator", "pkg"))
+main()
